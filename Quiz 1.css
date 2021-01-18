@@ -1,0 +1,59 @@
+body{
+    background-color:dodgerblue;
+    font-family:cursive;
+    font-weight: bold;
+   
+    
+}
+a{
+    color:yellow;
+}
+#login{
+    background-color: snow;
+    background-size: 50px 80px ;
+    margin:auto;
+    text-align:center;
+    color:gray;
+    margin-top:250px;
+    width: 200px;
+    height; 250px;
+    border-style:outset;
+    border-color:
+#AAAAAA;
+border-radius: 5px;
+    padding:10px;
+}
+#forget{
+    text-align: center;
+    font-size: 14px;
+    margin-top:250px;
+    margin: auto;
+   
+}
+#pass{
+    margin-top: -17px;
+}
+button{
+    color:white;
+    background-color:#34D068;
+    margin-top: 5px;
+    border:5px;
+    border-radius: 4px;
+    height:25px;
+    width:105px;
+ 
+    
+   
+    
+}
+input{
+    border:no
+    border-color: ;
+    border-width:1px 1px; 
+    border-radius:5px;
+    border-bottom-width: 4px 4px;
+   width: 180px;
+    height:30px;
+    background-color:#E1ECE4;
+    
+}
