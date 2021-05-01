@@ -1,0 +1,174 @@
+/* false <i class="fas fa-times"></i> */
+/* true <i class="fas fa-check"></i> */
+
+
+
+body{
+    background-color: rgb(245, 245, 245);
+    
+}
+.content{
+    width:1200px;
+    height: 800px;
+    margin: auto;
+    position: relative;
+    top:150px;
+    
+    
+
+}
+
+.fasel{
+    color: rgb(206, 206, 206);
+}
+.fasel-1{
+    color:rgb(136, 136, 136);
+}
+
+ul{
+    list-style:none;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    margin-left:20px;
+    
+    
+}
+li{
+    padding-bottom:7px;
+    font-size:22px;
+    
+}
+button{
+    font-family: 'poppins' , sans-serif;
+    font-weight: 501;
+    font-size:17px;
+    color:white;
+    background-color:#641bff;
+    border:none;
+    border-radius:7px;
+    width:300px;
+    height:55px;
+    transition: .1s ease;
+}
+button:hover{
+    transform: scale(1.1);
+
+    cursor:pointer;
+    
+    
+}
+.basic{
+    text-align: center;
+    width:420px;
+    height: 700px;
+    background-color: white;
+    border-radius:10px;
+    box-shadow:rgb(241, 241, 241) 1px 4px 60px 60px ;
+}
+.basic-page{
+    position: relative;
+    top:30px;
+    
+}
+.details{
+    font-family: 'poppins' ,sans-serif;
+}
+.price{
+    margin-left:33px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family:poppins;
+    font-weight:501;
+    font-size: 90px;
+    
+}
+
+.dollar{
+    position: relative;
+    top:-60px;
+    font-size:35px;
+    font-weight:501;
+    font-family: 'Poppins', sans-serif;
+
+    
+}
+.month{
+    position: relative;
+    top:5px;
+    right:1px;
+    font-size:17px;
+    font-weight:501;
+    font-family: 'Poppins', sans-serif;
+
+}
+.type{
+    font-size:21px;
+    font-weight:501;
+    margin-left:20px;
+    position: relative;
+    bottom:20px;
+    
+}
+.fas.fa-check{
+    color:rgb(63, 230, 85);
+    font-size:18px;
+    padding-right:10px;
+}
+.fas.fa-times{
+    color:rgb(177, 56, 56);
+    padding-right:13px;
+}
+.false{
+    color: rgb(187, 186, 186);
+    text-decoration:line-through;
+}
+/* Enterprise section */
+
+.enterprise{
+    text-align: center;
+    width:420px;
+    height: 700px;
+    background-color: white;
+    border-radius:10px;
+    position: relative;
+    left:800px;
+    top:-700px;
+    box-shadow:rgb(241, 241, 241) 1px 4px 60px 60px ;
+    
+    
+}
+
+
+
+/* MOST POPULAR SECTION */
+
+.most-popular{
+text-align: center;
+width:400px;
+height:800px;
+background-color:#641BFF;
+border-radius:10px;
+position:relative;
+top:-1450px;
+right:-400px;
+color: white;
+
+
+}
+.most-popular button{
+    background-color: white;
+    color:#641BFF ;
+
+}
+.popular-sign{
+    font-family: 'poppins', sans-serif;
+    font-size:21px;
+    font-weight:501;
+    
+    margin: 0%;
+    
+}
+.popular-page{
+    position: relative;
+    top:50px;
+}
